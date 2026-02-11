@@ -1,0 +1,21 @@
+body {
+  background: #0d1117;
+  color: #00ff9c;
+  text-align: center;
+  font-family: Arial;
+}
+
+input, select {
+  margin: 5px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  background: #00ff9c;
+  border: none;
+}
+
+table {
+  margin: 20px auto;
+}
